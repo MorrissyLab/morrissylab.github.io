@@ -1,0 +1,49 @@
+- name: GitHub
+  url: https://github.com/morrissylab/morrissylab.github.io
+  class: icon-github
+  title: Github repo for site.
+
+- member_name: Sorana
+  social:
+    - name: GitHub
+      url: https://github.com/ancasorana
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/SoranaUofC
+      class: icon-twitter
+      title: "Personal Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/anca-sorana-morrissy-5a8107/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Link
+      url: https://morrissylab.github.io/
+      class: icon-link
+      title: "Personal Website"
+
+- member_name: Aly
+  social:
+    - name: GitHub
+      url: https://github.com/alyosama
+      class: icon-github
+      title: "GitHub Profile"
+    - name: Twitter
+      url: https://twitter.com/alyabdelk
+      class: icon-twitter
+      title: "Personal Twitter account"
+    - name: linkedin
+      url: https://www.linkedin.com/in/alyosama/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"
+    - name: Link
+      url: http://alyosama.github.io/
+      class: icon-link
+      title: "Personal Website"
+
+- member_name: Amadou
+  social:
+    - name: linkedin
+      url: https://www.linkedin.com/in/amadouonline/
+      class: icon-linkedin
+      title: "Professional LinkedIn account"

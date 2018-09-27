@@ -1,0 +1,30 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Publications
+  url: "/publications/"
+  side: left
+
+- title: Team
+  url: "/team/"
+  side: left
+
+- title: Join
+  url: "/join/"
+  side: left
+
+- title: Teaching
+  url: "/teaching/"
+  side: left
+
+- title: News
+  url: "/news/"
+  side: left
+  dropdown:
+  - title: "News Archive"
+    url: "/news/archive/"
+
+- title: Contact
+  url: "/contact/"
+  side: left

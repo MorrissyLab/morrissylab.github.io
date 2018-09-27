@@ -1,0 +1,57 @@
+---
+layout: page-fullwidth
+title: "Team"
+meta_title: ""
+subheadline: ""
+teaser: ""
+permalink: "/team/"
+header:
+    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+---
+
+<div data-magellan-expedition="fixed">
+  <ul class="sub-nav">
+    <li data-magellan-arrival="Principal_Investigators"><a href="#Principal_Investigator">Principal Investigators</a></li>
+    <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Postdoctoral Researchers</a></li>
+    <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
+    <li data-magellan-arrival="Students"><a href="#Students">Students</a></li>
+    <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
+
+  </ul>
+</div>
+
+<h2 data-magellan-destination="Principal_Investigators">Principal Investigators</h2>
+<a name="Principal_Investigators"></a>
+
+{% include team_member member_name="Sorana" full_name="Sorana Morrissy, PhD" bio="Dr. Sorana Morrissy completed her PhD in Medical Genetics at the University of British Columbia, Vancouver, BC, under the supervision of Dr. Marco Marra.  She pursued post-doctoral research in translational genomics in Dr. Michael Taylor’s lab at the Hospital of Sick Children in Toronto, ON.  Throughout her training she gained extensive experience with cutting-edge high-throughput sequencing technologies and computational analyses in the field of cancer research, with a particular focus on understanding tumor heterogeneity and recurrent disease." image="/assets/img/team/Sorana.jpg" role="Principal Investigator" %}
+
+<h2 data-magellan-destination="Postdoctoral_Researchers">Postdoctoral Researchers</h2>
+<a name="Postdoctoral_Researchers"></a>
+
+{% include team_member member_name="Kiran" full_name="Kiran Narta" bio="Kiran obtained a Ph.D. in Science from CSIR-Institute of Genomics and Integrative Biology, New-Delhi. She is interested in cancer genomics with particular focus on understanding the contribution of co-occurring genetic alterations. Away from research she loves hanging out with friends, family and food." image="/assets/img/team/Kiran.jpg" role="Postdoctoral Researcher" %}
+
+{% include team_member member_name="Ted" full_name="Ted Verhey" bio="Ted joined the lab in 2018 after earning his PhD in Biochemistry and Molecular Biology with George Chaconas at the University of Calgary. He comes with experience in data science, molecular biology, and 3rd generation sequencing technologies. Ted is interested in Big Data approaches in cancer research and personalized medicine." image="" role="Postdoctoral Researcher" %}
+
+<h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
+<a name="Graduate_Students"></a>
+
+{% include team_member member_name="Aaron" full_name="Aaron Gillmor" bio="Aaron has obtained a Bachelor of Health Science (Honours) from the University of Calgary. Aaron’s previous research through the Alberta Children’s Hospital Research Institute was focused on finding the genetic component responsible for a rare genetic disorders. Aaron hopes to continue improving as a research bioinformatician by delving into the fascinating world of cancer genomics. His research focus is to improve reconstruction of tumor phylogenies to better understand how genetic heterogeneity influences cancer. Prior to his academic career, Aaron was a international athlete competing the the nordic sports of biathlon and cross country skiing. While he is no longer participating as a international athlete, he enjoys giving back to the community as a coach with the Bragg Creek Ski Club. Aaron’s main interest outside of academia and volunteering are fly fishing, hunting, hiking, mountain biking and cross country skiing." image="/assets/img/team/Aaron.jpg" role="MSc. Student" %}
+
+{% include team_member member_name="Aly" full_name="Aly Abdelkareem" bio="Aly is doing a visiting research program in the lab. Currently, he is a master student at Faculty of Engineering, Ain Shams University, Cairo. From 2016-2017, He was a Research Software Development Engineer at Microsoft Research where he was working on creating virtual bots and building speech recognition models using deep learning technologies. His research interests span cancer genomics and artificial intelligence. Outside the lab, he think that scientists are no wiser than anyone else." image="/assets/img/team/Aly.jpg" role="Visiting Student" %}
+
+{% include team_member member_name="Amadou" full_name="Amadou Diallo" bio="Amadou is a PhD candidate in Bioinformatics in the Morrissy Lab. He holds two bachelor degrees, in Bioinformatics and in Mathematics - with a minor in Applied Statistics. Before joining the lab, he was a Bioinformatics/Biostatistics research engineer in Pasteur Institute where he gained experience working with Next-Generation Sequencing data. Driven by his curiosity in genetic disorders, he is interested in applied healthcare and genomics research." image="/assets/img/team/Amadou.jpg" role="PhD Student" %}
+
+{% include team_member member_name="Varsha" full_name="Varsha Thoppey Manoharan" bio="Varsha is a Master's student in the Morrissy lab. She holds a Bachelor's degree in Pharmaceutical Technology which focused on subjects like Pharmacology and Molecular Biology. Driven by her interest in cancer research, she is motivated to become versed with the computational and laboratory approach of her work. Her research focuses gene expression profiles of cancer stem cells in Glioblastoma. Apart from academia, Varsha likes to travel and visit new places." image='/assets/img/team/Varsha.jpg'  role="MSc. Student" %}
+
+
+<h2 data-magellan-destination="Students">Students</h2>
+<a name="Students"></a>
+
+{% include team_member member_name="Aneley" full_name="Aneley D" bio="Aneley is a Bioinformatics student conducting research in the Morrissy lab for his BHSc Honours thesis. His current work is focused on transcriptional differences between primary Glioblastoma tumors and their cultured stem-like cells. He holds a Bachelor's degree in Computer Science and was a former system analyst working with computer networks and security prior to joining the lab. His areas of interest include gene editing and information security. Aneley is an avid traveler, a history buff and a massive football (the real one) fan." image="/assets/img/team/Aneley.jpg" role="Student" %}
+
+{% include team_member member_name="Rahul" full_name="Rahul Arora" bio="Rahul is a Bachelor of Health Sciences Honours Thesis student in the Morrissy Lab. He is working to identify novel combinations of genetic events in the p53 pathway that are potential causes of Li-Fraumeni Syndrome. Outside of the lab, Rahul spends his time hiking, meditating, and making bad puns." image="/assets/img/team/Rahul.JPG" role="Student" %}
+
+<h2 data-magellan-destination="Alumni">Alumni</h2>
+<a name="Alumni"></a>
+
+{% include team_member member_name="Samuel" full_name="Samuel Brown" bio=" " image="/assets/img/team/Samuel.jpg" role="Student" %}
