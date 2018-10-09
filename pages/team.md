@@ -30,7 +30,7 @@ header:
 
 {% include team_member member_name="Kiran" full_name="Kiran Narta" bio="Kiran obtained a Ph.D. in Science from CSIR-Institute of Genomics and Integrative Biology, New-Delhi. She is interested in cancer genomics with particular focus on understanding the contribution of co-occurring genetic alterations. Away from research she loves hanging out with friends, family and food." image="/assets/img/team/Kiran.jpg" role="Postdoctoral Researcher" %}
 
-{% include team_member member_name="Ted" full_name="Ted Verhey" bio="Ted joined the lab in 2018 after earning his PhD in Biochemistry and Molecular Biology with George Chaconas at the University of Calgary. He comes with experience in data science, molecular biology, and 3rd generation sequencing technologies. Ted is interested in Big Data approaches in cancer research and personalized medicine." image="" role="Postdoctoral Researcher" %}
+{% include team_member member_name="Ted" full_name="Ted Verhey" bio="Ted joined the lab in 2018 after earning his PhD in Biochemistry and Molecular Biology with George Chaconas at the University of Calgary. He comes with experience in data science, molecular biology, and 3rd generation sequencing technologies. Ted is interested in Big Data approaches in cancer research and personalized medicine." image="/assets/img/team/Ted.jpg" role="Postdoctoral Researcher" %}
 
 <h2 data-magellan-destination="Graduate_Students">Graduate Students</h2>
 <a name="Graduate_Students"></a>
