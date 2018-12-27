@@ -43,7 +43,7 @@ header:
 
 <hr>
 
-<h2 data-magellan-destination="All">Complete Bibliography (PubMed)</h2>
+<h2 data-magellan-destination="All">Complete Bibliography</h2>
 <a name="All"></a>
 
-<h3><a href="https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/49527465/?sort=date&direction=descending">Sorana Morrissy (pubmed)</a></h3>
+<h3><a href="https://www.ncbi.nlm.nih.gov/labs/bibliography/sorana.morrissy.1/bibliography/public/">Sorana Morrissy (pubmed)</a></h3>
