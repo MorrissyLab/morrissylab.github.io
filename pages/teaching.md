@@ -13,9 +13,13 @@ Dr Sorana is an instructor / lecturer at the Canadian Bioinformatics Workshops, 
 
 ### Workshops
 Canadian Bioinformatics Workshops 
-    https://bioinformatics.ca/workshops/2018-bioinformatics-for-cancer-genomics/
-    https://bioinformatics.ca/workshops/2018-informatics-on-high-throughput-sequencing-data/
+
+<h3><a href="https://bioinformatics.ca/workshops/2018-bioinformatics-for-cancer-genomics/">Bioinformatics for Cancer Genomics</a></h3>
+ 
+<h3><a href="https://bioinformatics.ca/workshops/2018-informatics-on-high-throughput-sequencing-data/">Informatics on High-Throughput Sequencing Data</a></h3>
+    
 
 Cold Spring Harbour Laboratories (courses)
-    https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18
 
+
+<h3><a href="https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18">Advanced Sequencing Technologies & Applications</a></h3>
