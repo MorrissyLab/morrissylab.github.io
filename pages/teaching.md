@@ -18,8 +18,8 @@ Canadian Bioinformatics Workshops
  
 <h4><a href="https://bioinformatics.ca/workshops/2018-informatics-on-high-throughput-sequencing-data/">Informatics on High-Throughput Sequencing Data</a></h4>
     
-<h2>
+<h3>
 Cold Spring Harbour Laboratories (courses)
-</h2>
+</h3>
 
 <h4><a href="https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18">Advanced Sequencing Technologies & Applications</a></h4>
