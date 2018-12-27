@@ -18,11 +18,14 @@ header:
   </ul>
 </div>
 
+<hr>
 
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
 
 {% include publication authors="Garzia L*, Kijima N*, Morrissy AS*, et al" title="A Hematogenous Route for Medulloblastoma Leptomeningeal Metastases" journal="Cell" doi="10.1016/j.cell.2018.01.038" %}
+
+<hr>
 
 <h2 data-magellan-destination="2017">2017</h2>
 <a name="2017"></a>
@@ -37,8 +40,6 @@ header:
 <a name="2016"></a>
 
 {% include publication authors="Morrissy AS*, Garzia L*, et al" title="Divergent clonal selection dominates medulloblastoma at recurrence" journal="Nature. 2016Jan 21;529" doi="10.1038/nature16478" pmid="26760213" %}
-
-<hr>
 
 <hr>
 
