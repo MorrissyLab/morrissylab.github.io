@@ -9,8 +9,13 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-Dr Sorana lecture regularly for a number of traditional courses at University of Calgary.
+Dr Sorana is an instructor / lecturer at the Canadian Bioinformatics Workshops, as well as the Cold Spring Harbour Laboratories:
 
-### Past/Recent Workshops
-1. Canadian Bioinformatics Workshops - [Bioinformatics for Cancer Genomics, Canada, March 12-17, 2018](https://bioinformatics.ca/workshops/2018-bioinformatics-for-cancer-genomics/)
+### Workshops
+Canadian Bioinformatics Workshops 
+    https://bioinformatics.ca/workshops/2018-bioinformatics-for-cancer-genomics/
+    https://bioinformatics.ca/workshops/2018-informatics-on-high-throughput-sequencing-data/
+
+Cold Spring Harbour Laboratories (courses)
+    https://meetings.cshl.edu/courses.aspx?course=C-SEQTEC&year=18
 
