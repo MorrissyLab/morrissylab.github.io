@@ -14,7 +14,6 @@ header:
     <li data-magellan-arrival="2018"><a href="#2018">2018</a></li>
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
     <li data-magellan-arrival="2016"><a href="#2016">2016</a></li>
-    <li data-magellan-arrival="2015"><a href="#2015">2015</a></li>
     <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
@@ -46,4 +45,4 @@ header:
 <h2 data-magellan-destination="All">Complete Bibliography</h2>
 <a name="All"></a>
 
-<h3><a href="https://www.ncbi.nlm.nih.gov/labs/bibliography/sorana.morrissy.1/bibliography/public/">Sorana Morrissy (pubmed)</a></h3>
+<h3><a href="https://www.ncbi.nlm.nih.gov/labs/bibliography/sorana.morrissy.1/bibliography/public/">Sorana Morrissy (PubMed)</a></h3>
