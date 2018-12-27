@@ -19,6 +19,14 @@ header:
   </ul>
 </div>
 
+
+<h2 data-magellan-destination="2018">2018</h2>
+<a name="2018"></a>
+
+{% include publication authors="Garzia L*, Kijima N*, Morrissy AS*, Wu X, Wang X, Donovan LK, De Antonellis P, Liu K-W, Luu B, Alamsahebpour A, Thompson YY, Holgado BL, Ramaswamy V, Farooq H, Skowron P, Shih DJH, Li A, Ensan S, Robbins CS, Manno A, Liu J, Qin L, Cybulsky M, Mitra S, Cho YJ, Weiss WA, Chan JA, Hawkins CE, Massimino M, Jabado N, Bouffet E, Sorensen PHB, Aldape K, Marra MA, Wechsler-Reya RJ, Fults DW, Taylor MD." title="A Hematogenous Route for Medulloblastoma Leptomeningeal Metastases." journal="Cell" doi="10.1016/j.cell.2018.01.038" %}
+
+Northcott PA*, Buchhalter I*, Morrissy AS*, Hovestadt V, Groebner S, Ehrenberger T, Segura-Wang M, Zichner T, Weischenfeldt J, Schumacher S, Phillips AH, Kleinheinz K, Waszak SM, Erkek A, Jones DTW, Worst BC, Kool M, Zapatka M, Jäger N, Chavez L, Hutter B, Bieg M, Paramasivam N, Heinold M, Gu Z, Warnatz H-J, Risch T, Amstislavskiy V, Weber U, Wolf S, Robinson GW, Zhou X, Wu G, Finkelstein D, Cavalli FMG, Luu B, Ramaswamy V, Wu X, Koster J, Ryzhova M, Cho Y-J, Pomeroy S, Herold-Mende S, Schuhmann M, Ebinger M, Liau LM, Mora J, McLendon RE, Jabado N, Kumabe T, Witt O, Milde T, Von Deimling A, Capper D, Korshunov A, Yaspo M-L, Kriwacki R, Gajjar A, Zhang J, Beroukhim R, Fraenkel E, Korbel JO, Brors B, Schlesner M, Eils R, Marra MA, Pfister SM, Taylor MD, and Lichter P." title="The whole-genome landscape of medulloblastoma subtypes." journal="Nature" doi="10.1038/nature22973" %}
+
 <h2 data-magellan-destination="2017">2017</h2>
 <a name="2017"></a>
 
