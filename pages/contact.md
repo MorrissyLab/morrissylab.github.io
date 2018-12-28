@@ -16,7 +16,7 @@ header:
     <div class="small-6 columns">
     <h5>Sorana Morrissy</h5>
     <p>
-      <b>email:</b> <a href="mailto:sorana.morrissy@ucalgary.ca">sorana.morrissy <at> ucalgary.ca</a><br>
+      <b>email:</b> <a href="mailto:sorana.morrissy@ucalgary.ca">sorana dot morrissy at ucalgary dot ca</a><br>
       <b>office:</b> HMRB 307<br>
     </p>
     </div>
