@@ -8,7 +8,7 @@ header:
 
 <div class="row">
     <div class="small-12 small-centered columns">
-	<img src="https://github.com/MorrissyLab/MorrissyLab.github.io/blob/master/assets/img/team/Sorana.jpg">
+	<img src="/assets/img/team/Sorana.jpg">
     </div>
 </div>
 
@@ -16,8 +16,8 @@ header:
     <div class="small-6 columns">
     <h5>Sorana Morrissy</h5>
     <p>
-      <b>email:</b> <a href="mailto:sorana.morrissy@ucalgary.ca">sorana.morrissy@ucalgary.ca</a><br>
-      <b>office:</b> HMRB 307<br>
+      <b>Email:</b> <a href="mailto:sorana.morrissy@ucalgary.ca">Sorana.Morrissy@ucalgary.ca</a><br>
+      <b>Office:</b> HMRB 307<br>
     </p>
     </div>
 </div>

@@ -13,5 +13,5 @@ The Morrissy Lab is an interdisciplinary team of biologists, bioinformaticians, 
 
 We are currently recruiting PhD Graduate Students and Postdoctoral Fellows. Please contact Dr. Morrissy for further information at 
 <br>
-sorana.morrissy@ucalgary.ca
+<a href="mailto:sorana.morrissy@ucalgary.ca">Sorana.Morrissy@ucalgary.ca</a>.
 
