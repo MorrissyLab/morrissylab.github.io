@@ -47,3 +47,10 @@
       url: https://www.linkedin.com/in/amadouonline/
       class: icon-linkedin
       title: "Professional LinkedIn account"
+
+- member_name: Heewon
+  social:
+    - name: Link
+      url: http://lootpiz.com
+      class: icon-link
+      title: "Personal Website"
