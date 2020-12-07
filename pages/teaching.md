@@ -9,7 +9,7 @@ header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
 ---
 
-Dr Sorana is an instructor / lecturer at the Canadian Bioinformatics Workshops, as well as the Cold Spring Harbour Laboratories:
+Dr. Morrissy is an instructor/lecturer at the Canadian Bioinformatics Workshops, as well as the Cold Spring Harbour Laboratories:
 
 <h3>
 Canadian Bioinformatics Workshops 

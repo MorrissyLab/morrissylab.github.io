@@ -46,4 +46,4 @@ header:
 <h2 data-magellan-destination="All">Complete Bibliography</h2>
 <a name="All"></a>
 
-<h3><a href="https://www.ncbi.nlm.nih.gov/labs/bibliography/sorana.morrissy.1/bibliography/public/">Sorana Morrissy (PubMed)</a></h3>
+<h3><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiinMef_7vtAhUqJTQIHWrAAxYQFjAAegQIBBAC&url=http%3A%2F%2Fscholar.google.co.uk%2Fcitations%3Fuser%3DLtbLtMgAAAAJ%26hl%3Den&usg=AOvVaw35AL-mmG2qpzGG9kj50b7M">Sorana Morrissy (Google Scholar)</a></h3>
