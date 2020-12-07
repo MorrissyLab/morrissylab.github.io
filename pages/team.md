@@ -12,10 +12,10 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Principal_Investigator"><a href="#Principal_Investigator">Principal Investigator</a></li>
+    <li data-magellan-arrival="Staffs"><a href="#Staffs">Staffs</a></li>
     <li data-magellan-arrival="Postdoctoral_Researchers"><a href="#Postdoctoral_Researchers">Postdoctoral Researchers</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
     <li data-magellan-arrival="Students"><a href="#Students">Students</a></li>
-    <li data-magellan-arrival="Staffs"><a href="#Staffs">Staffs</a></li>
     <li data-magellan-arrival="Alumni"><a href="#Alumni">Alumni</a></li>
 
   </ul>
