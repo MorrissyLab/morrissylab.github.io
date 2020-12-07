@@ -8,7 +8,7 @@ header:
 
 <div class="row">
     <div class="small-12 small-centered columns">
-        <img src="https://charbonneau.ucalgary.ca/files/charbonneau/sorana-headshot.jpg">
+	<img src="https://github.com/MorrissyLab/MorrissyLab.github.io/blob/master/assets/img/team/Sorana.jpg">
     </div>
 </div>
 
@@ -24,7 +24,7 @@ header:
 
 <div class="row">
     <div class="small-12 small-centered columns">
-        <h5>Charbonneau Cancer Institute</h5>
+        <h5>Arnie Charbonneau Cancer Institute</h5>
         <p>
           <b>Address:</b><br> 3330 Hospital Drive NW<br>
           Calgary, Alberta, T2N 4N1<br>

@@ -19,7 +19,7 @@ header:
 <h2 data-magellan-destination="Overview">Overview</h2>
 <a name="Overview"></a>
 
-The Morrisy lab is a combined research group in Translational Cancer Genomics.
+The Morrissy Lab is a combined research group in Translational Cancer Genomics.
 
 Tumor evolution is a continuing process of re-iterating genetic and epigenetic diversification followed by clonal expansion and selection, occurring in the adaptive landscape of tumor microenvironments. These dynamics yield heterogeneous clonal lineages that underpin cancer’s ability to progress, metastasize, and ultimately become resistant to treatment.  Intratumoral heterogeneity (ITH) is thus a formidable barrier to therapeutic success, and significant efforts are ongoing to understand the dynamics, constraints, and contingencies of this ongoing evolutionary process.  In my lab, we focus on the extent and clinical implications of ITH, measuring and modelling tumor evolution, and approaches for therapeutic strategies that consider and incorporate this key aspect of tumor biology.
 
