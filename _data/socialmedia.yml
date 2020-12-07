@@ -5,10 +5,6 @@
 
 - member_name: Sorana
   social:
-    - name: GitHub
-      url: https://github.com/ancasorana
-      class: icon-github
-      title: "GitHub Profile"
     - name: Twitter
       url: https://twitter.com/SoranaUofC
       class: icon-twitter
@@ -17,10 +13,6 @@
       url: https://www.linkedin.com/in/anca-sorana-morrissy-5a8107/
       class: icon-linkedin
       title: "Professional LinkedIn account"
-    - name: Link
-      url: https://morrissylab.github.io/
-      class: icon-link
-      title: "Personal Website"
 
 - member_name: Aly
   social:
