@@ -13,7 +13,7 @@ header:
 </div>
 
 <div class="row">
-    <div class="small-6 columns">
+    <div class="small-12 small-centered columns">
     <h5>Sorana Morrissy</h5>
     <p>
       Assistant Professor | Dept of Biochemistry and Molecular Biology<br />
