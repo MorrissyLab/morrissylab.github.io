@@ -25,12 +25,16 @@ header:
 <h2 data-magellan-destination="2020">2020</h2>
 <a name="2020"></a>
 
-{% include publication authors="To be updated.." %}
+{% include publication authors="To be updated" %}
+
+<hr>
 
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
 
-{% include publication authors="To be updated.." %}
+{% include publication authors="To be updated" %}
+
+<hr>
 
 <h2 data-magellan-destination="2018">2018</h2>
 <a name="2018"></a>
