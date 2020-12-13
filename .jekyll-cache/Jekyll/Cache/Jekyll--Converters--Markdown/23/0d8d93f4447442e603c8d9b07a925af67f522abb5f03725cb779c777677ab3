@@ -1,0 +1,74 @@
+I"ñ
+<div data-magellan-expedition="fixed">
+  <ul class="sub-nav">
+    <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
+    <li data-magellan-arrival="Precision_medicine"><a href="#Precision_medicine">Precision medicine</a></li>
+  </ul>
+</div>
+
+<h2 data-magellan-destination="Overview">Overview</h2>
+<p><a name="Overview"></a></p>
+
+<p>The Morrissy Lab is a combined research group in Translational Cancer Genomics.</p>
+
+<p>Tumor evolution is a continuing process of re-iterating genetic and epigenetic diversification followed by clonal expansion and selection, occurring in the adaptive landscape of tumor microenvironments. These dynamics yield heterogeneous clonal lineages that underpin cancerâ€™s ability to progress, metastasize, and ultimately become resistant to treatment.  Intratumoral heterogeneity (ITH) is thus a formidable barrier to therapeutic success, and significant efforts are ongoing to understand the dynamics, constraints, and contingencies of this ongoing evolutionary process.  In my lab, we focus on the extent and clinical implications of ITH, measuring and modelling tumor evolution, and approaches for therapeutic strategies that consider and incorporate this key aspect of tumor biology.</p>
+
+<hr />
+
+<h2 data-magellan-destination="Precision_medicine">Precision medicine</h2>
+<p><a name="Precision_medicine"></a></p>
+
+<div class="project">
+  <div class="row">
+    <div class="large-12 columns">
+      <h3>A Hematogenous Route for Medulloblastoma Leptomeningeal Metastases</h3><br />
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="large-12 columns">
+        
+           <img src="/assets/img/research/AML31_Slider_Image.png" />
+        
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="large-12 columns">
+      <h5>Description:</h5>
+        <p>
+          It has come to our attention that in preparing the final version of the manuscript, we made a mistake in the legend for Figure 6. The figure includes 4 major panels labeled A, B, C and D, and we inadvertently included descriptions for panels A, B, C, D, and E. The information in the Figure 6E legend describes panel 6D and should have been labeled as such, and the text labeled 6D should have been deleted. The error has been corrected online, and we apologize for any confusion we may have caused.
+        </p>
+    </div>
+
+    <div class="large-8 columns">
+      <h5>Publication(s):</h5>
+      <p>
+
+        
+          <a href="https://www.ncbi.nlm.nih.gov/pubmed/29474906 ">Morrissy AS et al. 2018. Cell Systems. 1(3):210-223.</a><br />
+        
+
+        
+          <br />
+        
+
+        
+          <br />
+        
+
+      </p>
+    </div>
+
+    <div class="large-4 columns">
+      <h5>Team members:</h5>
+      <p>
+        X,Y,Z
+      </p>
+    </div>
+
+  </div>
+</div>
+<hr />
+
+:ET

@@ -21,9 +21,6 @@
 - title: News
   url: "/news/"
   side: left
-  dropdown:
-  - title: "News Archive"
-    url: "/news/archive/"
 
 - title: Contact
   url: "/contact/"
