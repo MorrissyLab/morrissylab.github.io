@@ -1,4 +1,4 @@
-I"_<h2 id="no-problem">No problem!</h2>
+I"s<h2 id="no-problem">No problem!</h2>
 
 <p>Try…
 …to start over on the <a href="/">home page</a>;
@@ -10,7 +10,7 @@ if you can’t find it, <a href="/contact/">ask about it</a>.</p>
 <script language="Javascript" type="text/javascript">
 	function google_search() {
 		var query = document.getElementById("google-search").value;
-		window.open("https://www.google.com/search?q=" + query + "+site:" + "http%3A%2F%2Flocalhost%3A4000%2F");
+		window.open("https://www.google.com/search?q=" + query + "+site:" + "https%3A%2F%2Fmorrissylab.github.io%2F");
 	}
 </script>
 
@@ -18,8 +18,8 @@ if you can’t find it, <a href="/contact/">ask about it</a>.</p>
 	<input type="text" id="google-search" placeholder="Enter search term and hit enter" />
 </form>
 <noscript>
-	Search <a href="https://www.google.com/search?q=site:http%3A%2F%2Flocalhost%3A4000%2F" target="_blank">Google</a> for:
-	<pre><code>search-term site:http://localhost:4000/</code></pre>
+	Search <a href="https://www.google.com/search?q=site:https%3A%2F%2Fmorrissylab.github.io%2F" target="_blank">Google</a> for:
+	<pre><code>search-term site:https://morrissylab.github.io/</code></pre>
 </noscript>
 
 :ET

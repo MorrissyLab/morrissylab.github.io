@@ -4,18 +4,23 @@
     <div class="row">
         <div class="small-10 columns">
             <p>
-                {{ include.authors }}.
-                <b>{{ include.title }}</b>.
-                {{ include.journal }}.
-                <br>
+                {{ include.authors }}, <b>{{ include.title }}</b>. <i>{{ include.journal }}</i> 
+
+		{% if include.page %}
+		    {{ include.page }}.
+		{% endif %}
 
                 {% if include.pmid %}
-                    <b>pmid</b>: <a href="{{ 'https://www.ncbi.nlm.nih.gov/pubmed/' | append: include.pmid }}">{{ include.pmid }};</a> 
+                    | PMID: <a href="{{ 'https://www.ncbi.nlm.nih.gov/pubmed/' | append: include.pmid }}" target="_blank">{{ include.pmid }}</a> 
                 {% endif %} 
 
                 {% if include.doi %}
-                    <b>doi</b>: <a href="{{ 'http://dx.doi.org/' | append: include.doi }}">{{ include.doi }}</a>
+                    | DOI : <a href="{{ 'http://dx.doi.org/' | append: include.doi }}" target="_blank">{{ include.doi }}</a>
                 {% endif %}  
+
+		{% if include.status %}
+		    <b><i>{{ include.status }}</i></b>
+		{% endif %}
             </p>
         </div>
         <div class="small-2 columns">
