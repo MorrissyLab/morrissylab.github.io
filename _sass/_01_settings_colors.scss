@@ -24,7 +24,14 @@ $body-bg: 			#ffffff;
 
 /* Corporate Identity Colorpalette
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
-------------------------------------------------------------------- */
+------------------------------------------------------------------- 
+$ci-1: #2c6546;         // dark turquoise
+$ci-2: #669f74;         // green
+$ci-3: #EFC94C;         // yellow
+$ci-4: #E27A3F;         // orange
+$ci-5: #DF4949;         // red
+$ci-6: #ACE1AF;     // green
+*/
 
 $ci-1: #f86502;		
 $ci-2: #e79a67;		
@@ -102,7 +109,9 @@ $topbar-menu-icon-color: #000;
 
 
 /* Footer
-------------------------------------------------------------------- */
+------------------------------------------------------------------- 
+
+$footer-bg: #2a3439;*/
 
 $footer-bg: #eb6b03;
 $footer-color: #fff;
