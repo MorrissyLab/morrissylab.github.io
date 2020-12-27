@@ -1,4 +1,4 @@
-I"Å7<div data-magellan-expedition="fixed">
+I"F:<div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Principal_Investigator"><a href="#Principal_Investigator">Principal Investigator</a></li>
     <li data-magellan-arrival="Staffs"><a href="#Staffs">Staffs</a></li>
@@ -305,6 +305,37 @@
     <p class="small-gap"> <b> Samuel Brown </b></p>
     <p class="small-gap"> <b>Role:</b> Student</p>
     <p class="small-gap"> <b>Bio:</b> Samuel is currently working towards a Bachelors of Science in Kinesiology (honours) at Queen‚Äôs University in Kingston, Ontario. He spent the 2018 summer term working in the Morrissy Lab and focused mainly on comparing medulloblastoma genomic heterogeneity to the corresponding tumour transcriptomes to further describe tumour heterogeneity.  He also integrated multiple layers of biological information to run a Multi-Omic Factor Analysis on the medulloblastoma samples. In his free time Samuel enjoys reading, running, and spending time with family and friends</p>
+  </div>
+</div>
+
+<div class="row">
+<div class="small-3 small-centered columns">
+<ul class="inline-list social-icons">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</ul>
+</div>
+</div>
+
+<hr />
+
+<div class="row">
+  <div class="small-4 columns">
+    <img src="/assets/img/team/Noelle.jpg" />
+  </div>
+  <div class="small-8 columns">
+    <p class="small-gap"> <b> Noelle Thundathil </b></p>
+    <p class="small-gap"> <b>Role:</b> Student</p>
+    <p class="small-gap"> <b>Bio:</b> Noelle is a first-year Health Sciences Honours student majoring in Bioinformatics. Over the past 2 years, she has been volunteering in the Morrissy Lab and exploring her research interests. Outside of the lab, Noelle likes to play instruments, and sing.</p>
   </div>
 </div>
 
