@@ -33,5 +33,5 @@ March 12, 2021
   * Evidence of scientific accomplishment via peer-reviewed publications
   * Highly motivated with excellent organizational, problem-solving and communication skills (verbal and written)
 
-[Source](https://bioinformatics.ca/job-postings/3d139380-8344-11eb-9c11-c9a3e2e780ad/#/?&order=desc)
+[Source](https://bioinformatics.ca/job-postings/3d139380-8344-11eb-9c11-c9a3e2e780ad/#/?&order=desc) <br/>
 [Apply](mailto:Sorana.Morrissy@ucalgary.ca)
