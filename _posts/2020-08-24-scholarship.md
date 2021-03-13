@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Aaron Gillmor receives the AGES Scholarship"
 teaser:  "Congrats to Aaron Gillmor who was just awarded an Alberta Graduate Excellence Scholarship!"
 header:

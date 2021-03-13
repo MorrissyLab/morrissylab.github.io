@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Aly Abdelkareem receives the RÉJEANNE Taylor Research Prize"
 teaser:  "Big congratulations to Aly Abdelkareem who was awarded RÉJEANNE Taylor Research Prize in Precision Cancer Research!"
 header:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Aaron Gillmor receives the AIGS Scholarship"
 teaser:  "A big congratulations to Aaron for being awarded an Alberta Innovates Graduate Student Scholarship!"
 header:

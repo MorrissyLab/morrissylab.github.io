@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Aly Abdelkareem receives the AIGS Scholarship"
 teaser:  "Congrats to Aly Abdelkareem who was successful in the Alberta Innovates Graduate Student Scholarship for Data-enabled Innovation Competition!"
 header:

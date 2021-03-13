@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Recruitment for a Postdoctoral Fellow"
 teaser:  "Morrissy lab is looking for a talented Postdoctoral Fellow in Cancer Genomics"
 header:
@@ -8,9 +8,7 @@ breadcrumb: true
 ---
 March 12, 2021
 
-[Source](https://bioinformatics.ca/job-postings/3d139380-8344-11eb-9c11-c9a3e2e780ad/#/?&order=desc)
-
-## Postdoctoral Fellow in Cancer Genomics
+### Postdoctoral Fellow in Cancer Genomics
 
   * Successful candidates will be PhD graduates who are interested in making fundamental discoveries in tumor evolution and immune response that can lead to translational impact in aggressive and largely incurable sarcoma subtypes.
 
@@ -19,12 +17,12 @@ March 12, 2021
   * We are part of a multi-disciplinary team of cancer researchers filled with passionate and determined individuals who will provide the successful candidate with a stimulating and conducive environment to participate and grow as a scientist. The research is conducted at the University of Calgary, in close collaboration with local and international scientists and clinicians, and thus will also provide the successful candidate with opportunities to learn from a large network of talented professionals.
 
 
-### Responsibilities:
+**Responsibilities:**
 
   * The PDF will lead integrative analyses of multi-dimensional cancer genomics data from patient samples with rich clinical annotations, and from mouse models of the disease. The candidate will use statistical and machine learning approaches to interpret data (genomic/proteomic and spatial transcriptome datasets) in the context of tumour evolution, with the aim of understanding the dynamics of tumour growth, relapse, metastases and progression. The PDF will design and carry out experiments and lead the writing of scientific manuscripts.
 
 
-### Qualifications:
+**Qualifications:**
 
   * PhD with training in bioinformatics, computer science, statistics or cell biology
   * Experience working in a Unix environment (shell scripting, command-line tools)
@@ -35,4 +33,5 @@ March 12, 2021
   * Evidence of scientific accomplishment via peer-reviewed publications
   * Highly motivated with excellent organizational, problem-solving and communication skills (verbal and written)
 
-
+[Source](https://bioinformatics.ca/job-postings/3d139380-8344-11eb-9c11-c9a3e2e780ad/#/?&order=desc)
+[Apply](mailto:Sorana.Morrissy@ucalgary.ca)

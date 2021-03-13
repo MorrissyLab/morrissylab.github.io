@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Welcome Heewon"
 teaser:  "Heewon Seo joins the Morrissy lab as a Lead Bioinformatician"
 header:
