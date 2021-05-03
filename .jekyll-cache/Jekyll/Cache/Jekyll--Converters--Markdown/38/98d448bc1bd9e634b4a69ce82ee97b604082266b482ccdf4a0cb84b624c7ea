@@ -1,4 +1,4 @@
-I"K:<div data-magellan-expedition="fixed">
+I"`=<div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Principal_Investigator"><a href="#Principal_Investigator">Principal Investigator</a></li>
     <li data-magellan-arrival="Staffs"><a href="#Staffs">Staffs</a></li>
@@ -336,6 +336,37 @@
     <p class="small-gap"> <b> Noelle Thundathil </b></p>
     <p class="small-gap"> <b>Role:</b> Student</p>
     <p class="small-gap"> <b>Bio:</b> Noelle is a first-year Health Sciences Honours student majoring in Bioinformatics. Over the past 2 years, she has been volunteering in the Morrissy Lab and exploring her research interests. Outside of the lab, Noelle likes to play instruments, and sing.</p>
+  </div>
+</div>
+
+<div class="row">
+<div class="small-3 small-centered columns">
+<ul class="inline-list social-icons">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+</ul>
+</div>
+</div>
+
+<hr />
+
+<div class="row">
+  <div class="small-4 columns">
+    <img src="/assets/img/team/Sean.jpg" />
+  </div>
+  <div class="small-8 columns">
+    <p class="small-gap"> <b> Sean Grewal </b></p>
+    <p class="small-gap"> <b>Role:</b> Student</p>
+    <p class="small-gap"> <b>Bio:</b> Sean is a first-year student at the University of Calgary working towards a Bachelor of Science in Computer Science. He is currently working as a summer student in the Morrissy Lab to further his research interests. Outside the lab, some of Sean's hobbies include playing the guitar, watching sports, and hanging out with friends and family.</p>
   </div>
 </div>
 

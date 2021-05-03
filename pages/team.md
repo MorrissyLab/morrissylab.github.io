@@ -57,6 +57,9 @@ header:
 
 {% include team_member member_name="Noelle" full_name="Noelle Thundathil" bio="Noelle is a first-year Health Sciences Honours student majoring in Bioinformatics. Over the past 2 years, she has been volunteering in the Morrissy Lab and exploring her research interests. Outside of the lab, Noelle likes to play instruments, and sing." image="/assets/img/team/Noelle.jpg" role="Student" %}
 
+{% include team_member member_name="Sean" full_name="Sean Grewal" bio="Sean is a first-year student at the University of Calgary working towards a Bachelor of Science in Computer Science. He is currently working as a summer student in the Morrissy Lab to further his research interests. Outside the lab, some of Sean's hobbies include playing the guitar, watching sports, and hanging out with friends and family." image="/assets/img/team/Sean.jpg" role="Student" %}
+
+
 <h2 data-magellan-destination="Alumni">Alumni</h2>
 <a name="Alumni"></a>
 
