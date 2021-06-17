@@ -50,10 +50,10 @@ header:
 
 {% include team_member member_name="Amadou" full_name="Amadou Diallo" bio="Amadou is a MSc. candidate in Bioinformatics in the Morrissy Lab. He holds two bachelor degrees, in Bioinformatics and in Mathematics - with a minor in Applied Statistics. Before joining the lab, he was a Bioinformatics/Biostatistics research engineer in Pasteur Institute where he gained experience working with next-generation sequencing data. Driven by his curiosity in genetic disorders, he is interested in applied healthcare and genomics research." image="/assets/img/team/Amadou.jpg" role="MSc. Student" %}
 
+{% include team_member member_name="Samuel" full_name="Samuel Brown" bio="Samuel is currently working towards a Bachelors of Science in Kinesiology (honours) at Queen’s University in Kingston, Ontario. He spent the 2018 summer term working in the Morrissy Lab and focused mainly on comparing medulloblastoma genomic heterogeneity to the corresponding tumour transcriptomes to further describe tumour heterogeneity.  He also integrated multiple layers of biological information to run a Multi-Omic Factor Analysis on the medulloblastoma samples. In his free time Samuel enjoys reading, running, and spending time with family and friends" image="/assets/img/team/Samuel.jpg" role="MSc. Student" %}
+
 <h2 data-magellan-destination="Students">Students</h2>
 <a name="Students"></a>
-
-{% include team_member member_name="Samuel" full_name="Samuel Brown" bio="Samuel is currently working towards a Bachelors of Science in Kinesiology (honours) at Queen’s University in Kingston, Ontario. He spent the 2018 summer term working in the Morrissy Lab and focused mainly on comparing medulloblastoma genomic heterogeneity to the corresponding tumour transcriptomes to further describe tumour heterogeneity.  He also integrated multiple layers of biological information to run a Multi-Omic Factor Analysis on the medulloblastoma samples. In his free time Samuel enjoys reading, running, and spending time with family and friends" image="/assets/img/team/Samuel.jpg" role="Student" %}
 
 {% include team_member member_name="Noelle" full_name="Noelle Thundathil" bio="Noelle is a first-year Health Sciences Honours student majoring in Bioinformatics. Over the past 2 years, she has been volunteering in the Morrissy Lab and exploring her research interests. Outside of the lab, Noelle likes to play instruments, and sing." image="/assets/img/team/Noelle.jpg" role="Student" %}
 
